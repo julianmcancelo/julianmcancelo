@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Julián Cancelo  
+**Unicorn**
 
-<!--
-**julianmcancelo/julianmcancelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+I am a computer systems analyst student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development, and I work as a software developer at a company that creates systems for carpentry. I love to learn and build something new, productive, innovative, and creative.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning...  
+- Java  
+- Spring  
+- Angular  
+- SQL Server  
+
+👯 I’m looking forward to collaborating on open source projects.  
+✔ Ask me about anything, I am happy to help.  
+
+Outside tech, 💜 I enjoy playing and discovering new games and 🎬 watching series.
+
+📫 Reach out to me at: [juliancancelo@gmail.com](mailto:juliancancelo@gmail.com)
