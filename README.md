@@ -10,11 +10,11 @@ Soy Analista de Sistemas (último año) y Desarrollador Full Stack con experienc
 
 - 🔭 Actualmente trabajando en: **Proyectos freelance de sistemas de gestión y apps móviles**
 - 🌱 Finalizando: **Carrera de Analista de Sistemas en ISFT 197**
-- 👯 Buscando colaborar en: **Proyectos de código abierto y soluciones municipales**
+- 👯 Buscando colaborar en: **Proyectos de código abierto y aplicaciones innovadoras**
 - 💬 Pregúntame sobre: **PHP, Java, React Native, MySQL, APIs REST**
 - 📫 Cómo contactarme: **juliancancelo@gmail.com**
 - 📍 Ubicación: **Lanús, Buenos Aires, Argentina**
-- ⚡ Dato curioso: **Combino mi experiencia administrativa municipal con desarrollo de software**
+- ⚡ Dato curioso: **Me apasiona crear soluciones que simplifiquen procesos complejos**
 
 ## 🛠️ Tecnologías y Herramientas
 
@@ -49,16 +49,11 @@ Soy Analista de Sistemas (último año) y Desarrollador Full Stack con experienc
 
 ### 🚀 Freelance - Analista de Sistemas / Desarrollador Full Stack
 **Enero 2020 - Actualidad**
-- Relevamiento y análisis de requerimientos para clientes privados y municipales
+- Relevamiento y análisis de requerimientos para diversos clientes
 - Desarrollo de sistemas de gestión en PHP (PDO, MySQL, Bootstrap/Tailwind)
 - Aplicaciones móviles con React Native / Expo para inspecciones y ventas
 - Integración de APIs RESTful (Correo Argentino, WhatsApp Business, Google Maps)
 - Documentación técnica de procesos y manuales de usuario
-
-### 🏛️ Jefe Administrativo - Municipio de Lanús
-**Febrero 2009 - Actualidad**
-- Jefe Administrativo del área de Transporte
-- Gestión y coordinación de procesos administrativos
 
 ## 📊 Estadísticas de GitHub
 
@@ -91,7 +86,7 @@ Soy Analista de Sistemas (último año) y Desarrollador Full Stack con experienc
 - **🌐 Desarrollo Web**: Sistemas de gestión con PHP, MySQL y frameworks CSS modernos
 - **📱 Desarrollo Móvil**: Aplicaciones React Native/Expo para Android e iOS
 - **🔗 Integración de APIs**: Servicios REST, WhatsApp Business, Google Maps, Correo Argentino
-- **🏢 Soluciones Municipales**: Sistemas administrativos y de gestión pública
+- **🏢 Sistemas de Gestión**: Aplicaciones administrativas y de control de procesos
 - **📋 Análisis de Sistemas**: Relevamiento de requerimientos y documentación técnica
 
 ## 🌐 Conecta conmigo
