@@ -1,5 +1,13 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Julián%20Manuel%20Cancelo&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Julián%20Manuel%20Cancelo&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=🚀%20Full%20Stack%20Developer%20%7C%20System%20Analyst%20🚀&descAlignY=55&descAlign=50"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
 
 <div align="center">
@@ -41,6 +49,10 @@
 </div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50"> &nbsp; Tech Stack & Tools
+
+<div align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
@@ -105,6 +117,10 @@
 </div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; GitHub Analytics
+
+<div align="center">
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=julianmcancelo&theme=tokyonight&bg_color=0D1117&border_color=F85D7F&title_color=F8D866&text_color=FFFFFF" alt="3D Contributions" />
+</div>
 
 <div align="center">
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=julianmcancelo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats" />
@@ -233,6 +249,42 @@
   <img src="https://komarev.com/ghpvc/?username=julianmcancelo&color=F85D7F&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/julianmcancelo?color=F8D866&style=for-the-badge&label=FOLLOWERS&logo=github" alt="Followers" />
   <img src="https://img.shields.io/github/stars/julianmcancelo?color=00D9FF&style=for-the-badge&label=STARS&logo=github" alt="Stars" />
+</div>
+
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Now Playing" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&animation=grow_out_in&layout=churchill&font=default" alt="Random Dev Quote" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=julianmcancelo&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&area_color=F85D7F" alt="Activity Graph" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900">
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50"> &nbsp; Coding Time Tracker
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=julianmcancelo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&layout=compact" alt="Wakatime Stats" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900">
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50"> &nbsp; Random Dev Meme
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight&bgColor=0D1117" alt="Jokes Card" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900">
 </div>
 
 <div align="center">
