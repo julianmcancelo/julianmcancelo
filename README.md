@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Julián%20Manuel%20Cancelo&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=🚀%20Full%20Stack%20Developer%20%7C%20System%20Analyst%20🚀&descAlignY=55&descAlign=50"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Julián%20Manuel%20Cancelo&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=🚀%20Desarrollador%20Full%20Stack%20%7C%20Analista%20de%20Sistemas%20🚀&descAlignY=55&descAlign=50"/>
 </div>
 
 <div align="center">
@@ -28,27 +28,27 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
-**Analista de Sistemas** (último año) y **Desarrollador Full Stack** con experiencia en aplicaciones web y móviles. Me especializo en transformar requerimientos en soluciones escalables, aplicando buenas prácticas de desarrollo y metodologías ágiles.
+**Analista de Sistemas (último año) y Desarrollador Full Stack con sólida experiencia en el desarrollo de aplicaciones web y móviles. Me especializo en el análisis, diseño e implementación de soluciones tecnológicas escalables, aplicando buenas prácticas de desarrollo y metodologías ágiles.**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **Actualmente trabajando en:** Proyectos freelance de sistemas de gestión y apps móviles
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **Actualmente trabajando en:** Proyectos freelance de sistemas de gestión y aplicaciones móviles
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="30"> **Finalizando:** Carrera de Analista de Sistemas en ISFT 197
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="30"> **Formación académica:** Finalizando carrera de Analista de Sistemas en ISFT 197
 
-<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4c07-a75d-c78e1be81a9c.gif" width="30"> **Buscando colaborar en:** Proyectos de código abierto y aplicaciones innovadoras
+<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4c07-a75d-c78e1be81a9c.gif" width="30"> **Buscando colaborar en:** Proyectos de código abierto y desarrollo de aplicaciones innovadoras
 
-<img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd5-a1c5-fda5fa2e7d3b.gif" width="30"> **Pregúntame sobre:** PHP, Java, React Native, MySQL, APIs REST
+<img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd5-a1c5-fda5fa2e7d3b.gif" width="30"> **Consultas sobre:** PHP, Java, React Native, MySQL, APIs REST
 
 <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-99112b0f4a7d.gif" width="30"> **Contacto:** juliancancelo@gmail.com
 
 <img src="https://user-images.githubusercontent.com/74038190/212284152-8b0b0f0b-b8b1-4f8a-b8b1-4f8a8b0b0f0b.gif" width="30"> **Ubicación:** Lanús, Buenos Aires, Argentina 🇦🇷
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30"> **Dato curioso:** Me apasiona crear soluciones que simplifiquen procesos complejos
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30"> **Enfoque profesional:** Especializado en crear soluciones que optimizan y simplifican procesos complejos
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900">
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50"> &nbsp; Tech Stack & Tools
+## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50"> &nbsp; Stack Tecnológico y Herramientas
 
 <div align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
@@ -99,24 +99,24 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900">
 </div>
 
-### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40"> &nbsp; Freelance - Analista de Sistemas / Desarrollador Full Stack
+### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40"> &nbsp; Consultor Independiente - Analista de Sistemas / Desarrollador Full Stack
 **🗓️ Enero 2020 - Actualidad**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd5-a1c5-fda5fa2e7d3b.gif" width="25"> Relevamiento y análisis de requerimientos para diversos clientes
+<img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd5-a1c5-fda5fa2e7d3b.gif" width="25"> Análisis y relevamiento de requerimientos funcionales para diversos clientes
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="25"> Desarrollo de sistemas de gestión en PHP (PDO, MySQL, Bootstrap/Tailwind)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="25"> Desarrollo e implementación de sistemas de gestión empresarial utilizando PHP (PDO), MySQL y frameworks CSS modernos
 
-<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4c07-a75d-c78e1be81a9c.gif" width="25"> Aplicaciones móviles con React Native / Expo para inspecciones y ventas
+<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4c07-a75d-c78e1be81a9c.gif" width="25"> Desarrollo de aplicaciones móviles multiplataforma con React Native/Expo para procesos de inspección y gestión comercial
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="25"> Integración de APIs RESTful (Correo Argentino, WhatsApp Business, Google Maps)
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="25"> Integración y consumo de APIs RESTful de terceros (Correo Argentino, WhatsApp Business API, Google Maps API)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-99112b0f4a7d.gif" width="25"> Documentación técnica de procesos y manuales de usuario
+<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-99112b0f4a7d.gif" width="25"> Elaboración de documentación técnica, especificaciones funcionales y manuales de usuario
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; GitHub Analytics
+## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; Estadísticas de GitHub
 
 <div align="center">
   <img src="https://github-profile-3d-contrib.vercel.app/api?username=julianmcancelo&theme=tokyonight&bg_color=0D1117&border_color=F85D7F&title_color=F8D866&text_color=FFFFFF" alt="3D Contributions" />
@@ -136,7 +136,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900">
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50"> &nbsp; GitHub Trophies
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50"> &nbsp; Trofeos de GitHub
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=julianmcancelo&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
@@ -146,7 +146,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50"> &nbsp; Contribution Graph
+## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50"> &nbsp; Gráfico de Contribuciones
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=julianmcancelo&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF" alt="Contribution Graph" />
@@ -162,21 +162,21 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900">
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30"> **Desarrollo Web**: Sistemas de gestión con PHP, MySQL y frameworks CSS modernos
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30"> **Desarrollo Web**: Arquitectura y desarrollo de sistemas de gestión empresarial con PHP, MySQL y frameworks CSS modernos
 
-<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="30"> **Desarrollo Móvil**: Aplicaciones React Native/Expo para Android e iOS
+<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="30"> **Desarrollo Móvil**: Aplicaciones multiplataforma con React Native/Expo para Android e iOS
 
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30"> **Integración de APIs**: Servicios REST, WhatsApp Business, Google Maps, Correo Argentino
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30"> **Integración de APIs**: Implementación de servicios REST y APIs de terceros (WhatsApp Business, Google Maps, Correo Argentino)
 
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30"> **Sistemas de Gestión**: Aplicaciones administrativas y de control de procesos
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30"> **Sistemas de Gestión**: Desarrollo de aplicaciones administrativas y sistemas de control de procesos empresariales
 
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="30"> **Análisis de Sistemas**: Relevamiento de requerimientos y documentación técnica
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="30"> **Análisis de Sistemas**: Relevamiento de requerimientos funcionales, modelado de procesos y documentación técnica especializada
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50"> &nbsp; Conecta conmigo
+## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50"> &nbsp; Información de Contacto
 
 <div align="center">
   <a href="mailto:juliancancelo@gmail.com">
@@ -209,7 +209,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900">
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50"> &nbsp; Idiomas & Skills
+## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50"> &nbsp; Idiomas y Habilidades
 
 <div align="center">
   <img src="https://img.shields.io/badge/Español-Nativo-success?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Español" />
@@ -226,7 +226,7 @@
   <img src="https://readme-quotes-api.herokuapp.com/quote?theme=tokyonight&animation=grow_out_in&layout=default&font=default" alt="Readme Quotes">
 </div>
 
-> *"Transformar requerimientos en soluciones escalables es un arte que combina análisis técnico, creatividad y experiencia práctica."*
+> *"La transformación de requerimientos empresariales en soluciones tecnológicas escalables requiere un equilibrio entre análisis técnico riguroso, innovación y experiencia práctica en el desarrollo de software."*
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900">
@@ -246,9 +246,9 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=julianmcancelo&color=F85D7F&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/julianmcancelo?color=F8D866&style=for-the-badge&label=FOLLOWERS&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/julianmcancelo?color=00D9FF&style=for-the-badge&label=STARS&logo=github" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=julianmcancelo&color=F85D7F&style=for-the-badge&label=VISITAS+AL+PERFIL" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/julianmcancelo?color=F8D866&style=for-the-badge&label=SEGUIDORES&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/julianmcancelo?color=00D9FF&style=for-the-badge&label=ESTRELLAS&logo=github" alt="Stars" />
 </div>
 
 <div align="center">
@@ -267,7 +267,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900">
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50"> &nbsp; Coding Time Tracker
+## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50"> &nbsp; Seguimiento de Tiempo de Código
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=julianmcancelo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&layout=compact" alt="Wakatime Stats" />
@@ -277,7 +277,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900">
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50"> &nbsp; Random Dev Meme
+## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50"> &nbsp; Contenido Técnico Adicional
 
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight&bgColor=0D1117" alt="Jokes Card" />
