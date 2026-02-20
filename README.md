@@ -1,21 +1,23 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090c10,100:0d1117&height=200&section=header&text=Julián%20Manuel%20Cancelo&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Analista+de+Sistemas+%7C+Full+Stack+Developer&descAlignY=55&descAlign=50"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090c10,100:0d1117&height=200&section=header&text=Julián%20Manuel%20Cancelo&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Analista+de+Sistemas+%7C+Especialista+en+Ciberdefensa&descAlignY=55&descAlign=50"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=40&lines=Especialista+en+Soluciones+Escalables;Arquitectura+de+Software+Moderno;Desarrollo+Punta+a+Punta" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=40&lines=Analista+de+Sistemas+(3+materias+restantes);Licenciatura+en+Ciberdefensa+en+curso;Especialista+en+Riesgos+Cibernéticos;Full+Stack+Developer" alt="Typing SVG" />
 </div>
 
-Analista de Sistemas graduado con sólida experiencia en el diseño y desarrollo de arquitecturas de software escalables. Me especializo en transformar requerimientos de negocio complejos en soluciones técnicas eficientes, enfocándome en la mantenibilidad y el rendimiento del software.
+Analista de Sistemas en la etapa final de formación (a solo 3 materias de la graduación) y estudiante de la **Licenciatura en Ciberdefensa**. Mi enfoque profesional combina el desarrollo de aplicaciones robustas con la identificación y mitigación de riesgos cibernéticos.
+
+Me especializo en el análisis de vulnerabilidades, la prevención de incidentes de ciberseguridad y el diseño de arquitecturas de software que garanticen la resiliencia operativa y la protección de infraestructuras críticas.
 
 ---
 
-## 🚀 Áreas de Experiencia
+## 🛡️ Especialización en Ciberdefensa y Riesgos
 
-*   **Arquitectura de Software**: Diseño de sistemas modulares y aplicación de patrones de arquitectura.
-*   **Desarrollo Full Stack**: Implementación de soluciones integrales utilizando PHP, Java y ecosistemas modernos de JavaScript (React, React Native).
-*   **Bases de Datos**: Modelado, optimización y administración de bases de datos relacionales (MySQL, SQL Server) y soluciones Cloud.
-*   **Consultoría Técnica**: Análisis de requerimientos funcionales y transformación digital de procesos operativos.
+*   **Análisis de Riesgos**: Identificación y tratamiento de ciberataques y detección de vulnerabilidades en entornos TIC y TO.
+*   **Gestión de Incidentes**: Aplicación de estrategias de prevención y técnicas de resiliencia ante amenazas internas y externas.
+*   **Políticas y Auditoría**: Asesoramiento en normativas de ciberdefensa y participación en auditorías de seguridad en ámbitos críticos.
+*   **Investigación Tecnológica**: Desarrollo de informes técnicos y vinculación con el sector público y privado en materia de seguridad nacional.
 
 ---
 
