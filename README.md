@@ -1,12 +1,10 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d6b,100:0d1117&height=180&section=header&text=Julián%20Manuel%20Cancelo&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Analista%20de%20Sistemas%20·%20Ciberdefensa%20·%20Full%20Stack%20Dev&descSize=16&descAlignY=58&descAlign=50&descColor=8b949e"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d6b,100:0d1117&height=190&section=header&text=Julián%20Manuel%20Cancelo&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Analista%20de%20Sistemas%20·%20Ciberdefensa%20·%20Full%20Stack%20Dev&descSize=16&descAlignY=58&descAlign=50&descColor=8b949e"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=30&lines=Construyo+aplicaciones...+y+pienso+en+cómo+romperlas.;Análisis+de+riesgos+·+Vulnerabilidades+·+Resiliencia;React+·+React+Native+·+PHP+·+Java;Lanús%2C+Buenos+Aires%2C+Argentina" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=30&lines=Construyo+software+con+mentalidad+de+seguridad.;Desarrollo+full+stack+orientado+a+operaciones+reales.;Análisis+de+riesgos+·+vulnerabilidades+·+resiliencia.;Lanús%2C+Buenos+Aires%2C+Argentina" />
 </div>
-
-<br>
 
 <div align="center">
 
@@ -19,9 +17,10 @@
 <br>
 
 Analista de Sistemas en la recta final de la carrera y estudiante de la **Licenciatura en Ciberdefensa**.
-Trabajo en el cruce entre desarrollo de software y seguridad: construyo aplicaciones, pero siempre pensando en cómo romperlas.
 
-Me interesa el análisis de riesgos, la detección de vulnerabilidades y la resiliencia operativa — no desde lo teórico, sino desde el trabajo concreto sobre sistemas reales.
+Trabajo en el cruce entre **desarrollo de software, operaciones y seguridad**: diseño aplicaciones útiles para entornos reales, pero con una mirada constante sobre riesgos, fallas y superficie de ataque.
+
+Me interesa construir soluciones que no solo funcionen, sino que también sean **robustas, mantenibles y resilientes**.
 
 <br>
 
@@ -29,18 +28,24 @@ Me interesa el análisis de riesgos, la detección de vulnerabilidades y la resi
 
 <div align="center">
 
-### `[ 01 ]` — CIBERDEFENSA & SEGURIDAD
+### `[ 01 ]` - ENFOQUE PROFESIONAL
 
 </div>
 
-Identificación y tratamiento de vulnerabilidades en entornos **TIC y TO**. Gestión de incidentes, análisis de riesgos y asesoramiento en normativas de seguridad para infraestructuras críticas.
+```yaml
+perfil:
+  - Desarrollo full stack con foco en producto y operación
+  - Análisis de riesgos, vulnerabilidades y resiliencia
+  - Diseño de soluciones prácticas para problemas reales
+  - Integración entre negocio, tecnología y seguridad
+```
 
 ```yaml
-foco:
-  - Análisis de riesgos cibernéticos y vectores de ataque
-  - Prevención y respuesta ante incidentes de seguridad
-  - Políticas de seguridad y cumplimiento normativo
-  - Investigación aplicada en infraestructuras críticas
+intereses:
+  - Ciberdefensa aplicada
+  - Gestión de incidentes y hardening
+  - Arquitecturas seguras y escalables
+  - Infraestructura crítica y continuidad operativa
 ```
 
 <br>
@@ -49,11 +54,44 @@ foco:
 
 <div align="center">
 
-### `[ 02 ]` — DESARROLLO FULL STACK
+### `[ 02 ]` - PROYECTOS DESTACADOS
 
 </div>
 
-Aplicaciones web y mobile con foco en arquitecturas robustas, escalables y seguras desde el diseño. Integración con APIs, bases de datos relacionales y servicios cloud.
+#### `STOCKAR`
+
+> Sistema integral de gestión de inventario y control operativo multiplataforma.
+
+Nació como una necesidad puntual y evolucionó hacia una solución con capas separadas que sincronizan información en tiempo real para sostener operación, trazabilidad y control.
+
+```text
+APP MOBILE        React Native / Expo
+WEB DASHBOARD     React / Vite
+CLOUD / API       Google Apps Script + integraciones
+ENFOQUE           Offline-first · sincronización · operación continua
+```
+
+#### `Bitácora Docente`
+
+> Aplicación orientada a ordenar, registrar y dar seguimiento al trabajo docente de forma más ágil y centralizada.
+
+Este proyecto refuerza una línea que me interesa especialmente: transformar procesos cotidianos en herramientas digitales claras, con foco en **usabilidad, continuidad operativa y calidad de la información**.
+
+```text
+OBJETIVO          Digitalizar el registro y seguimiento docente
+VALOR             Menos fricción administrativa, más orden y trazabilidad
+ENFOQUE           Flujo práctico · información accesible · soporte a la gestión
+```
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a3d6b,100:0d1117&height=2&section=header"/>
+
+<div align="center">
+
+### `[ 03 ]` - STACK
+
+</div>
 
 <div align="center">
 <br>
@@ -63,7 +101,7 @@ Aplicaciones web y mobile con foco en arquitecturas robustas, escalables y segur
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React_Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
@@ -76,38 +114,12 @@ Aplicaciones web y mobile con foco en arquitecturas robustas, escalables y segur
 <br>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a3d6b,100:0d1117&height=2&section=header"/>
-
-<div align="center">
-
-### `[ 03 ]` — STOCKAR · PROYECTO PRINCIPAL
-
-> *Sistema integral de gestión de inventario y control operativo multiplataforma.*
-
-</div>
-
-<br>
-
-Empezó como una necesidad puntual y creció hasta convertirse en una solución completa con tres capas independientes que se sincronizan en tiempo real.
-
-<br>
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  📱  APP MOBILE          React Native / Expo                │
-│      ·  Escaneo de alta velocidad                           │
-│      ·  Arquitectura offline-first                          │
-│      ·  Sincronización automática al reconectar             │
-├─────────────────────────────────────────────────────────────┤
-│  🖥️   DASHBOARD WEB       Vite / React                      │
-│      ·  Panel administrativo en tiempo real                 │
-│      ·  Análisis y gestión de datos centralizada            │
-│      ·  Control multi-punto                                 │
-├─────────────────────────────────────────────────────────────┤
-│  ☁️   CLOUD / API         Google Apps Script + APIs         │
-│      ·  Sincronización entre capas                          │
-│      ·  Integración con servicios de terceros               │
-└─────────────────────────────────────────────────────────────┘
+```text
+LENGUAJES          PHP · Java · JavaScript
+FRONTEND           React · React Native · Angular
+SEGURIDAD          Análisis · auditoría · riesgos
+BASES DE DATOS     MySQL · Firebase
+INFRAESTRUCTURA    Linux · Git · Vercel · cloud
 ```
 
 <br>
@@ -116,27 +128,15 @@ Empezó como una necesidad puntual y creció hasta convertirse en una solución 
 
 <div align="center">
 
-### `[ 04 ]` — STACK & EXPERIENCIA
+### `[ 04 ]` - FORMACIÓN ACTUAL
 
 </div>
-
-<br>
-
-```
- LENGUAJES            ████████████████████░░░░   PHP · Java · JavaScript
- FRONTEND             ███████████████████░░░░░   React · React Native · Angular
- SEGURIDAD            ████████████████░░░░░░░░   Análisis · Auditoría · Riesgos
- BASES DE DATOS       ██████████████░░░░░░░░░░   MySQL · Firebase
- INFRAESTRUCTURA      █████████████░░░░░░░░░░░   Linux · Git · Vercel · Cloud
-```
-
-<br>
 
 ```yaml
 formación:
-  - Analista de Sistemas              →  recta final  (3 materias)
-  - Licenciatura en Ciberdefensa      →  en curso
-  - Especialización en Riesgos TIC    →  en curso
+  - Analista de Sistemas              -> recta final (3 materias)
+  - Licenciatura en Ciberdefensa      -> en curso
+  - Especialización en Riesgos TIC    -> en curso
 ```
 
 <br>
