@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117" />
+      <stop offset="55%" stop-color="#141824" />
+      <stop offset="100%" stop-color="#1E1338" />
+    </linearGradient>
+    <radialGradient id="glow1" cx="20%" cy="30%" r="45%">
+      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0.28" />
+      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="glow2" cx="82%" cy="70%" r="40%">
+      <stop offset="0%" stop-color="#A78BFA" stop-opacity="0.22" />
+      <stop offset="100%" stop-color="#A78BFA" stop-opacity="0" />
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#30363D" stroke-width="0.6" stroke-opacity="0.45" />
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="320" rx="14" fill="url(#bg)" />
+  <rect width="1200" height="320" rx="14" fill="url(#grid)" />
+  <rect width="1200" height="320" rx="14" fill="url(#glow1)" />
+  <rect width="1200" height="320" rx="14" fill="url(#glow2)" />
+  <rect x="1" y="1" width="1198" height="318" rx="13" fill="none" stroke="#30363D" stroke-width="1.5" />
+
+  <!-- Decorative accent line -->
+  <rect x="80" y="92" width="56" height="4" rx="2" fill="#8B5CF6" />
+
+  <!-- Main Title -->
+  <text x="80" y="152" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="56" font-weight="800" fill="#F0F6FC" letter-spacing="-1">
+    Julian Manuel Cancelo
+  </text>
+
+  <!-- Handle & Location -->
+  <text x="82" y="196" font-family="'Fira Code', 'Cascadia Code', Consolas, monospace" font-size="22" font-weight="500" fill="#A78BFA">
+    @julianmcancelo
+  </text>
+  <text x="295" y="196" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="18" fill="#8B949E">
+    ·  Lanús, Buenos Aires, Argentina
+  </text>
+
+  <!-- Tagline -->
+  <text x="82" y="242" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="18" fill="#C9D1D9">
+    Backend · Full Stack · Mobile (Flutter &amp; Android) · GIS &amp; Sistemas a medida
+  </text>
+
+  <!-- Right side decorative code badge -->
+  <g transform="translate(940, 105)">
+    <rect width="180" height="110" rx="12" fill="#161B22" fill-opacity="0.85" stroke="#30363D" stroke-width="1.2" />
+    <circle cx="20" cy="20" r="5" fill="#FF5F56" />
+    <circle cx="36" cy="20" r="5" fill="#FFBD2E" />
+    <circle cx="52" cy="20" r="5" fill="#27C93F" />
+    <text x="20" y="54" font-family="'Fira Code', Consolas, monospace" font-size="14" fill="#A78BFA">const</text>
+    <text x="68" y="54" font-family="'Fira Code', Consolas, monospace" font-size="14" fill="#F0F6FC">focus =</text>
+    <text x="20" y="78" font-family="'Fira Code', Consolas, monospace" font-size="14" fill="#7EE787">"Backend &amp; Apps"</text>
+  </g>
+</svg>
