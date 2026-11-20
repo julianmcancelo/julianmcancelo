@@ -13,21 +13,21 @@
 
   <!-- Terminal Lines -->
   <g font-family="'Fira Code', 'Cascadia Code', Consolas, monospace" font-size="13">
-    <text x="20" y="66" fill="#4ADE80">❯</text>
+    <text x="20" y="66" fill="#A78BFA">❯</text>
     <text x="36" y="66" fill="#F0F6FC">whoami</text>
     <text x="20" y="88" fill="#C9D1D9">Julian "Jota" Cancelo · Lanús, AR</text>
 
-    <text x="20" y="118" fill="#4ADE80">❯</text>
+    <text x="20" y="118" fill="#A78BFA">❯</text>
     <text x="36" y="118" fill="#F0F6FC">cat stack.txt</text>
     <text x="20" y="140" fill="#7EE787">Backend · TypeScript · Node.js · Next.js</text>
-    <text x="20" y="160" fill="#79C0FF">Flutter · Kotlin · Ciberdefensa</text>
+    <text x="20" y="160" fill="#79C0FF">Flutter · Kotlin · Ciberseguridad</text>
 
-    <text x="20" y="190" fill="#4ADE80">❯</text>
+    <text x="20" y="190" fill="#A78BFA">❯</text>
     <text x="36" y="190" fill="#F0F6FC">echo $STATUS</text>
-    <text x="20" y="212" fill="#A7F3D0">Analista Funcional &amp; Ciberdefensa 🔐</text>
+    <text x="20" y="212" fill="#D2A8FF">Analista Funcional &amp; Ciberseguridad</text>
 
-    <text x="20" y="244" fill="#4ADE80">❯</text>
-    <rect x="36" y="232" width="9" height="16" fill="#4ADE80">
+    <text x="20" y="244" fill="#A78BFA">❯</text>
+    <rect x="36" y="232" width="9" height="16" fill="#A78BFA">
       <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite" />
     </rect>
   </g>
