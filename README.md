@@ -1,6 +1,6 @@
-<!-- Perfil GitHub julianmcancelo | Tema: Portfolio técnico · Dark / Violet -->
+<!-- Perfil GitHub julianmcancelo | Tema: Portfolio técnico · Dark / Emerald -->
 <div align="center">
-  <img src="./assets/banner.svg" alt="Banner de Julian Manuel Cancelo" width="100%" />
+  <img src="./assets/banner.png" alt="Banner de Julian Manuel Cancelo" width="100%" />
 
   <h2>Back-End Developer · Analista Funcional · Ciberdefensa</h2>
 
@@ -8,7 +8,7 @@
     Construyo soluciones de software de punta a punta: desde APIs y plataformas web hasta aplicaciones móviles, herramientas GIS y sistemas seguros a medida.
   </p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=17&duration=3200&pause=1200&color=A78BFA&center=true&vCenter=true&width=720&height=34&lines=Back-End+Developer+%7C+TypeScript+%2B+Node.js;Analista+Funcional+%26+Formaci%C3%B3n+en+Ciberdefensa;Apps+M%C3%B3viles+con+Flutter+%26+React+Native" alt="Especialidades de desarrollo" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=17&duration=3200&pause=1200&color=4ADE80&center=true&vCenter=true&width=720&height=34&lines=Back-End+Developer+%7C+TypeScript+%2B+Node.js;Analista+Funcional+%26+Formaci%C3%B3n+en+Ciberdefensa;Apps+M%C3%B3viles+con+Flutter+%26+React+Native" alt="Especialidades de desarrollo" />
 
   <p>
     <a href="#perfil">Perfil</a> &nbsp;·&nbsp;
@@ -122,8 +122,8 @@
 ## 📊 Actividad en GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=julianmcancelo&show_icons=true&hide_border=false&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=8B5CF6&border_color=30363D" alt="Estadísticas del perfil" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianmcancelo&layout=compact&langs_count=8&hide_border=false&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&border_color=30363D" alt="Lenguajes más utilizados en repositorios" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=julianmcancelo&show_icons=true&hide_border=false&bg_color=0D1117&title_color=4ADE80&text_color=C9D1D9&icon_color=22C55E&border_color=30363D" alt="Estadísticas del perfil" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianmcancelo&layout=compact&langs_count=8&hide_border=false&bg_color=0D1117&title_color=4ADE80&text_color=C9D1D9&border_color=30363D" alt="Lenguajes más utilizados en repositorios" />
   <p><a href="https://github.com/julianmcancelo?tab=overview">Ver contribuciones en GitHub →</a></p>
 </div>
 
@@ -139,6 +139,6 @@
 <br />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=julianmcancelo&label=Visualizaciones&color=7650C5&style=flat-square" alt="Visitas al perfil" />
+  <img src="https://komarev.com/ghpvc/?username=julianmcancelo&label=Visualizaciones&color=16A34A&style=flat-square" alt="Visitas al perfil" />
   <p><sub>Julian Manuel Cancelo · Lanús, Buenos Aires, Argentina</sub></p>
 </div>
